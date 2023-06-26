@@ -8,6 +8,7 @@ header nav ul li a {
 
 .header__horizontal {
     text-align: right;
+    margin-top: 30px;
 }
 
 .header__horizontal nav.menu {

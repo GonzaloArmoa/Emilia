@@ -4,3 +4,24 @@ body.about {
   background-repeat: no-repeat;
   background-position: right top;
 }
+
+.about main section{
+  margin-left: 40px;
+}
+
+.about main section h3 {
+  font-family: var(--tipografiaTitulos);
+  color: var(--colorVerdeTitulos);
+  font-weight: 300;
+  font-size: 27px;
+  margin-top: 50px;
+}
+
+.about main section article h3.Titulo2{
+  margin-top: 90px;
+}
+
+.about main section p{
+  color: var(--colorVerdeTitulos);
+  font-size: 14px;
+}
